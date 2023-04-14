@@ -1,0 +1,18 @@
+export const countries = [
+  { country: "United States", code: "us" },
+  { country: "United Arab Emirates", code: "ae" },
+  { country: "Argentina", code: "ar" },
+  { country: "Czechia", code: "cz" },
+  { country: "Greece", code: "gr" },
+  { country: "India", code: "in" },
+  { country: "South Korea", code: "kr" },
+  { country: "Latvia", code: "lv" },
+  { country: "Mexico", code: "mx" },
+  { country: "Nigeria", code: "ng" },
+  { country: "Netherland", code: "nl" },
+  { country: "Philippines", code: "ph" },
+  { country: "South Africa", code: "sa" },
+  { country: "Slovenia", code: "si" },
+  { country: "Thailand", code: "th" },
+  { country: "Taiwan", code: "tw" },
+];

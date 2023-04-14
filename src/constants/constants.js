@@ -1,0 +1,13 @@
+export const TOP_HEADLINE_REQUEST = "TOP_HEADLINE_REQUEST";
+export const TOP_HEADLINE_SUCCESS = "TOP_HEADLINE_SUCCESS";
+export const TOP_HEADLINE_FAIL = "TOP_HEADLINE_FAIL";
+
+export const COUNTRY_NEWS_REQUEST = "COUNTRY_NEWS_REQUEST";
+export const COUNTRY_NEWS_SUCCESS = "COUNTRY_NEWS_SUCCESS";
+export const COUNTRY_NEWS_FAIL = "COUNTRY_NEWS_FAIL";
+
+export const SEARCH_TEXT = "SEARCH_TEXT";
+export const COUNTRY_LIST = "COUNTRY_LIST";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const COUNTRY_NAME = "COUNTRY_NAME";
+export const API_URL = "https://newsapi.org/v2/top-headlines";
